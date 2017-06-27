@@ -5,3 +5,4 @@ Hello there! I m just writing something to check that, how the commits and merge
 Planning to commit this change by using sourcetree
 
 Adding the second line. But wanted to commit only the previous line.
+Adding new line from github.
