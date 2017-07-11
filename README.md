@@ -8,3 +8,5 @@ Adding the second line. But wanted to commit only the previous line.
 Adding new line from github.
 
 Added for checking the changes in slack bot
+
+Added this line directly on the new branch and this can be reflected in slack by switch unauth mode.
