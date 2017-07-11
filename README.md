@@ -6,3 +6,5 @@ Planning to commit this change by using sourcetree
 
 Adding the second line. But wanted to commit only the previous line.
 Adding new line from github.
+
+Added for checking the changes in slack bot
